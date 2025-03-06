@@ -3,7 +3,12 @@ layout: page
 menu: false
 date: '2025-03-06 00:00:00'
 title: Who am I?
-description: |
+description: 
+permalink: /about/
+---
+
+<img class="profile-img" src="/assets/img/photo.png" alt="Me" width="200">
+
   I study and adapt AI algorithms particularly in spatial domain.
   I wish someday I could create special one for artificial general intelligence(AGI) and spatial perception.
 
@@ -13,19 +18,3 @@ description: |
   From there, I learned broad knowledge about mathematics, physics, AI, and their applications such as computer vision (CV), natural language processing (NLP), electronic engineering, and mechanical engineering.
 
   I was a research intern at Seoul National University (SNU) focusing on biomedical AI and at Yonsei University focusing on AI applications.
-permalink: /about/
----
-
-<img class="profile-img" src="/assets/img/photo.png" alt="Me" width="200">
-
-<article class="post">
-    <h1 class="post-title">{{ page.title }}</h1>
-
-    {% if page.description %}
-    <div class="post-description">
-        {{ page.description }}
-    </div>
-    {% endif %}
-
-    {{ content }}
-</article>
