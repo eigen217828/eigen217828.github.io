@@ -4,8 +4,8 @@ layout: post
 title: PointMamba will be the key of point cloud processing
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Will the PointMamba replace the PointTransformer(PT)?
-image: /assets/img/posts/mamba
-optimized_image: /assets/img/posts/mamba
+image: /assets/img/posts/mamba.png
+optimized_image: /assets/img/posts/mamba.png
 category: life
 tags:
   - books
