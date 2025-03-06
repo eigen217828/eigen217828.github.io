@@ -1,5 +1,5 @@
 # Site Settings
-name: Jekflix
+name: Eigenspace
 title: Jekflix | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
@@ -29,13 +29,8 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: eigen271828@gmail.com
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+github_username: eigen271828
 linkedin_username: linkedin_username
-medium_username: medium_username
-
 
 # Posts Settings
 show_time_bar: true

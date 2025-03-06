@@ -2,12 +2,13 @@
 layout: page
 menu: false
 date: '2025-03-06 00:00:00'
-title: Who am I?
+title: 
 description: 
 permalink: /about/
 ---
 
 <img class="profile-img" src="/assets/img/photo.png" alt="Me" width="200">
+## Who am I?
 
   I study and adapt AI algorithms particularly in spatial domain.
   I wish someday I could create special one for artificial general intelligence(AGI) and spatial perception.
