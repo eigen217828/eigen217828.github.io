@@ -9,5 +9,14 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/photo.png" alt="Me" width="200">
 
-# About
-
+<article class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    
+    {% if page.description %}
+    <div class="post-description">
+        {{ page.description }}
+    </div>
+    {% endif %}
+    
+    {{ content }}
+</article>
