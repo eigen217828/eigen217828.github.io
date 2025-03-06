@@ -13,6 +13,7 @@ description: |
   From there, I learned broad knowledge about mathematics, physics, AI, and their applications such as computer vision (CV), natural language processing (NLP), electronic engineering, and mechanical engineering.
 
   I was a research intern at Seoul National University (SNU) focusing on biomedical AI and at Yonsei University focusing on AI applications.
+permalink: /about/
 ---
 
 <img class="profile-img" src="/assets/img/photo.png" alt="Me" width="200">
