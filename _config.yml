@@ -12,9 +12,9 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: /
-  - title: About
-    url: /about
+    url: https://eigen217828.github.io/
+  - title: Eigen 
+    url: https://eigen217828.github.io/about/
   - title: Contact
     url: /contact
   - title: Feed
