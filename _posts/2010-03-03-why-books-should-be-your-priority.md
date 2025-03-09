@@ -6,11 +6,11 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Will the PointMamba replace the PointTransformer(PT)?
 image: /assets/img/posts/mamba.png
 optimized_image: /assets/img/posts/mamba.png
-category: life
+category: Spatial AI
 tags:
-  - books
-  - read
-author: mranderson
+  - Architecture
+  - Mamba
+author: Eigen
 paginate: true
 ---
 
