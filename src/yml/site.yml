@@ -16,6 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Computer Graphics
+    url: /computer_graphics
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
