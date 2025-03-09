@@ -13,4 +13,4 @@ permalink: /computer_graphics/
 ## WebGL Examples
 
 ### 1. Hello Window
-<iframe src="01_HelloWindow.html" width="100%" height="600px" frameborder="0"></iframe>
+[Open Hello Window Example](/pages/computer_graphics/01_HelloWindow.html){:target="_blank"}
