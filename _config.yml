@@ -17,6 +17,8 @@ menu:
     url: https://eigen271828.github.io/about/
   - title: Contact
     url: /contact
+  - title: Computer Graphics
+    url: /computer_graphics
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
