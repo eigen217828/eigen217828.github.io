@@ -12,6 +12,7 @@ _Jekflix_ comes with features to help you create/edit/share content and provide 
 - [Shell script to create posts](features.md#shell-script-to-create-posts)
 - [Tags page](features.md#tags-page)
 - [About page](features.md#about-page)
+- [Computer Graphics page](features.md#computer_graphics-page)
 - [Contact page](features.md#contact-page)
 - [404 error page](features.md#404-error-page)
 - [Feed RSS](features.md#feed-rss)

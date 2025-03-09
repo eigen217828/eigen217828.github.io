@@ -22,6 +22,7 @@ A theme for Jekyll inspired by Netflix panel for who loves movies and series and
 - [Shell script to create posts](docs/features.md#shell-script-to-create-posts)
 - [Tags page](docs/features.md#tags-page)
 - [About page](docs/features.md#about-page)
+- [Computer Graphics page](docs/features.md#computer-graphics-page)
 - [Contact page](docs/features.md#contact-page)
 - [404 error page](docs/features.md#404-error-page)
 - [Feed RSS](docs/features.md#feed-rss)
@@ -112,6 +113,8 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Computer Graphics
+    url: /computer_graphics
   - title: Contact
     url: /contact
   - title: Feed
